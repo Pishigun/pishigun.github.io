@@ -1,0 +1,23 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: darkblue;
+  font-size: 36px;
+  text-align: center;
+}
+
+#box {
+  width: 500vw;
+  height: 300vw;
+  background-color: lightblue;
+  display: none;
+}
+
+#mainbox {  
+  width: 500vw;
+  height: 300vw;
+  background-color: lightblue;
+  display: block;
+}
